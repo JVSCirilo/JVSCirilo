@@ -1,5 +1,6 @@
+# Olá Mundo! 👋
 
-<h1><strong>Welcome!</strong></h1>
-<br>
-<h3>Maybe you can´t find something here yet!</h3>
-<small><i>Also try my YouTube channel: </i></small><a href="https://www.youtube.com/c/lokinho1029"><small><i>Cirilow</i></small></a>
+## Sobre
+
+Me chamo João Victor e estou cursando o primeiro periodo em  Ciência da Computação na
+[UFPB](ufpb.br)
