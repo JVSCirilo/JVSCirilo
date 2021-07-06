@@ -1,12 +1,12 @@
 # Olá Mundo! 👋
 
-## Sobre
+## Sobre 👨‍💻
 
-> Me chamo João Victor, tenho 18 anos e estou cursando o primeiro periodo em  Ciência da Computação na
-> [UFPB](ufpb.br)
+Me chamo João Victor, tenho 18 anos e estou cursando o primeiro periodo em  Ciência da Computação na
+[UFPB](ufpb.br)
 
-## Links
+## Links 🏄‍♂️
 
-1. [Codewars](https://www.codewars.com/users/JVSCirilo)
-2. [Codepen](https://codepen.io/jvscirilo)
-3. [@the.rinhas][https://instagram.com/the.rinhas]
+🧠 - [Codewars](https://www.codewars.com/users/JVSCirilo)  
+💡 - [Codepen](https://codepen.io/jvscirilo)  
+🎨 - [@the.rinhas](https://instagram.com/the.rinhas?utm_medium=copy_link)  
