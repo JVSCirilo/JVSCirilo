@@ -3,7 +3,7 @@
 ## Sobre 👨‍💻
 
 Me chamo João Victor, tenho 18 anos e estou cursando o primeiro periodo em  Ciência da Computação na
-[UFPB](www.ufpb.br)
+[UFPB](https://www.ufpb.br)
 
 ## Links 🏄‍♂️
 
