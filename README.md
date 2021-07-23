@@ -3,7 +3,7 @@
 ## Sobre :technologist:
 
 Me chamo João Victor, tenho 18 anos e estou cursando o primeiro periodo em  Ciência da Computação na
-[UFPB](https://www.ufpb.br)
+[UFPB](https://www.ufpb.br). No momento estou estudando a linguagem C, e por fora, JavaScript.
 
 ## Links :surfer:
 
