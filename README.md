@@ -3,7 +3,7 @@
 
 ## Sobre :man_technologist:
 
-Me chamo João Victor, atualmente moro em João Pessoa, PB e estou cursando Ciência da Computação na [UFPB](https://www.ufpb.br).
+Me chamo João Victor, atualmente moro em João Pessoa PB e estou cursando Ciência da Computação na [UFPB](https://www.ufpb.br).
 
 ## Projetos :construction:
 
