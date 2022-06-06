@@ -3,4 +3,4 @@
 
 ## Sobre 👩‍💻
 
-Olá! Me chamo João Victor, atualmente moro em João Pessoa-PB e estou cursando Ciência da Computação na [Universidade Federal da Paraiba](https://www.ufpb.br).
+Olá! Atualmente moro em João Pessoa-PB e estou cursando Ciência da Computação na [Universidade Federal da Paraiba](https://www.ufpb.br).
