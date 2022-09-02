@@ -1,6 +1,33 @@
-# João Victor da Silva Cirilo
-![JavaScript](https://img.shields.io/badge/-JavaScript-red) ![node.js](https://img.shields.io/badge/-NodeJS-red) ![html5](https://img.shields.io/badge/-HTML5-orange) ![css3](https://img.shields.io/badge/-CSS3-blue) ![c](https://img.shields.io/badge/-C-blue)
+<h1>
+    <center>
+        <picture>
+            <source media="(prefers-color-scheme: light)" srcset="./static/banner_light.png">
+            <source media="(prefers-color-scheme: dark)" srcset="./static/banner_dark.png">
+            <img alt="Hello World!" width="480"/>
+        </picture>
+    </center>
+</h1>
 
-## Sobre 👩‍💻
+## About
 
-Olá! Atualmente moro em João Pessoa-PB e estou cursando Ciência da Computação na [Universidade Federal da Paraiba](https://www.ufpb.br).
+Hi there!
+
+My name is João Victor i live in João Pessoa, Brazil and currently i'm studying Computer Science at the Federal University of Paraíba.
+
+## Acquirements
+
+### Languages
+
+- JavaScript
+- Java
+- C
+- HTML
+- CSS3
+
+### Frameworks, libraries and REs
+
+- Node.js
+- Tailwindcss
+- React.js
+- Java RE
+- Next.js
