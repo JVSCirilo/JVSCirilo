@@ -16,16 +16,16 @@ My name is João Victor. I live in Brazil and currently i'm studying Computer Sc
 
 ### Languages
 
-- JavaScript
-- Java
 - C
+- Java
 - HTML
-- CSS3
+- JavaScript
 
-### Frameworks, libraries and REs
+### Frameworks, libraries and others
 
-- Node.js
-- Tailwindcss
-- React.js
-- Java RE
+- JRE
 - Next.js
+- Node.js
+- React.js
+- Express.js
+- TailwindCSS
