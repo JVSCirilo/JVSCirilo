@@ -1,11 +1,9 @@
-<h1>
-    <center>
-        <picture>
-            <source media="(prefers-color-scheme: light)" srcset="./static/banner_light.png">
-            <source media="(prefers-color-scheme: dark)" srcset="./static/banner_dark.png">
-            <img alt="Hello World!" width="480"/>
-        </picture>
-    </center>
+<h1 align="center">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="./static/banner_light.png">
+        <source media="(prefers-color-scheme: dark)" srcset="./static/banner_dark.png">
+        <img alt="Hello World!" width="480"/>
+    </picture>
 </h1>
 
 ## About
