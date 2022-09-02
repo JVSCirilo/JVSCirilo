@@ -12,7 +12,7 @@ Hi there!
 
 My name is João Victor. I live in Brazil and currently i'm studying Computer Science at the Federal University of Paraíba.
 
-## Acquirements
+## Knowledge
 
 ### Languages
 
