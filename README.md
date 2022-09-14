@@ -6,14 +6,14 @@
     </picture>
 </h1>
 
-## About
+## About me:
 
 Hi there!
 
-My name is João Victor. I live in Brazil and currently i'm studying Computer Science at the Federal University of Paraíba.
+My name is João Victor. I am a Computer Science student at UFPB (Brazil).
 
 ## Knowledge
 
 ### Frameworks, libraries and others
 
-JRE - Next.js - Node.js - React.js - Express.js - TailwindCSS
+JavaRE - Next.js - Node.js - React.js - Express.js - TailwindCSS
