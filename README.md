@@ -16,4 +16,4 @@ My name is João Victor. I am a Computer Science student at UFPB (Brazil).
 
 ### Frameworks, libraries and others
 
-JavaRE - Next.js - Node.js - React.js - Express.js - TailwindCSS
+Next.js - Node.js - React.js - Express.js - TailwindCSS
