@@ -10,7 +10,7 @@
 
 Hi there!
 
-My name is João Victor. I am a Computer Science student at UFPB (Brazil).
+My name is João Victor and i am a Computer Science student at UFPB (Brazil).
 
 ## Knowledge
 
