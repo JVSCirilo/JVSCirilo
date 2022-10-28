@@ -5,9 +5,3 @@
         <img alt="Hello World!" width="360" />
     </picture>
 </h1>
-
-## About me:
-
-Hi there!
-
-My name is João Victor and i am a Computer Science student at UFPB (Brazil).
